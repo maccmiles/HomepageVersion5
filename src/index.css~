@@ -12,8 +12,3 @@ body {
    color: white;
    text-align: center;
 }
-#bgimg {
-    background: url(mountain.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
-}
